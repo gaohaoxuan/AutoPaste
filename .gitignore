@@ -1,0 +1,22 @@
+# Swift / Xcode
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserdata
+Packages/
+Package.resolved
+
+# macOS
+.DS_Store
+*.app
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Archives
+*.zip
+*.tar.gz
